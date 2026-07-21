@@ -49,7 +49,7 @@ I am a passionate Computer Science student from Bangladesh who loves building we
   <a href="mailto:mustafagalibchowdhury@gmail.com?subject=Contact from GitHub&body=Hello Rafi, I saw your profile...">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/mustafa-galib-chowdhury/">
+  <a href="https://www.linkedin.com/in/mustafa-galib-chowdhury-094802367">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
