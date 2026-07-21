@@ -59,27 +59,17 @@ I am a passionate Computer Science student from Bangladesh who loves building we
 ## 📊 GitHub Stats
 
 <p align="center">
-  
-![](https://github-readme-stats.shion.dev/api?username=mustafagalibchowdhury&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-</p>
-<p align="center">
-
-![](https://streak-stats.demolab.com/?user=mustafagalibchowdhury&theme=transparent&hide_border=false)
-</p>
-<p align="center">
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustafagalibchowdhury&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/mustafagalibchowdhury/mustafagalibchowdhury/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mustafagalibchowdhury&theme=tokyonight&hide_border=false"/>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=mustafagalibchowdhury&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mustafagalibchowdhury&theme=transparent&hide_border=false"/>
+</p>
 
 hi i'm galib
 
