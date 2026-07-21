@@ -46,11 +46,20 @@ I am a passionate Computer Science student from Bangladesh who loves building we
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:mustafagalibchowdhury@gmail.com?subject=Contact from GitHub&body=Hello Rafi, I saw your profile...">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:mustafagalibchowdhury@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mustafa-galib-chowdhury-094802367">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+   <a href="https://facebook.com/mostofa.chy.1">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
+  </a>
+   <a href="https://discord.gg/mustafa_galib_chowdhury">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>
+  </a>
+   <a href="https://instagram.com/𝖒u𝖘𝖙a𝖋𝖆_𝖌𝖆𝖑𝖎𝖇_𝖈𝖍𝖞">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -67,15 +76,6 @@ I am a passionate Computer Science student from Bangladesh who loves building we
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=mustafagalibchowdhury&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mustafagalibchowdhury&theme=transparent&hide_border=false"/>
-</p>
-
-hi i'm galib
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mustafa_galib_chowdhury) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mostofa.chy.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/𝖒u𝖘𝖙a𝖋𝖆 _𝖌𝖆𝖑𝖎𝖇_ 𝖈𝖍𝖞) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-galib-chowdhury) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafagalibchowdhury@gmail.com) 
 
 
 ### ✍️ Random Dev Quote
