@@ -58,6 +58,11 @@ I am a passionate Computer Science student from Bangladesh who loves building we
 
 ## 📊 GitHub Stats
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mustafagalibchowdhury&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mustafagalibchowdhury&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustafagalibchowdhury&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/1rafi3/1rafi3/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
@@ -72,11 +77,6 @@ hi i'm galib
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mustafa_galib_chowdhury) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mostofa.chy.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/𝖒u𝖘𝖙a𝖋𝖆 _𝖌𝖆𝖑𝖎𝖇_ 𝖈𝖍𝖞) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-galib-chowdhury) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafagalibchowdhury@gmail.com) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mustafagalibchowdhury&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mustafagalibchowdhury&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustafagalibchowdhury&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mustafagalibchowdhury&theme=radical&no-frame=false&no-bg=true&margin-w=4)
