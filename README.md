@@ -58,7 +58,7 @@ I am a passionate Computer Science student from Bangladesh who loves building we
    <a href="https://discord.gg/mustafa_galib_chowdhury">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>
   </a>
-   <a href="https://instagram.com/𝖒u𝖘𝖙a𝖋𝖆_𝖌𝖆𝖑𝖎𝖇_𝖈𝖍𝖞">
+   <a href="https://www.instagram.com/mustafa_galib_chy/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
 </p>
