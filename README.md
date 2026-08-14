@@ -217,15 +217,7 @@ src="https://raw.githubusercontent.com/mustafagalibchowdhury/mustafagalibchowdhu
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mustafagalibchowdhury&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
 
 # 📌 Coding Activity
 
