@@ -2,10 +2,15 @@
 <!--          Banner              -->
 <!-- ============================ -->
 
+
 <p align="center">
-  <img src=<img width="1600" height="639" alt="bcd8968e-1188-4754-a75f-46d4aa6cb582" src="https://github.com/user-attachments/assets/c1334f70-e96b-43b4-ad82-c87949fbe8d6" />
- />
+  <img
+    src="https://github.com/user-attachments/assets/c1334f70-e96b-43b4-ad82-c87949fbe8d6"
+    alt="Mustafa Galib Chowdhury - Developer Setup"
+    width="100%"
+  />
 </p>
+
 
 <h1 align="center">
   Hi 👋, I'm <b>Mustafa Galib Chowdhury</b>
