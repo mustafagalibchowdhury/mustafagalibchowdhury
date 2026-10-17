@@ -3,7 +3,8 @@
 <!-- ============================ -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/jvxY7F8Z/Blue-Geometric-Technology-Linked-In-Banner-2.jpg" alt="Banner" width="100%" />
+  <img src=<img width="1600" height="639" alt="bcd8968e-1188-4754-a75f-46d4aa6cb582" src="https://github.com/user-attachments/assets/c1334f70-e96b-43b4-ad82-c87949fbe8d6" />
+ />
 </p>
 
 <h1 align="center">
