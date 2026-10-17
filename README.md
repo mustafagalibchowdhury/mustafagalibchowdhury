@@ -21,10 +21,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafagalibchowdhury&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
   <a href="mailto:mustafagalibchowdhury@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
