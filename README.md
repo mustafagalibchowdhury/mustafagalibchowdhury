@@ -1,8 +1,7 @@
-<!-- ============================ -->
-<!--          Banner              -->
-<!-- ============================ -->
 
-
+<!-- ========================================= -->
+<!--              PROFILE BANNER               -->
+<!-- ========================================= -->
 
 <p align="center">
   <img
@@ -12,332 +11,269 @@
   />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm <b>Mustafa Galib Chowdhury</b>
-</h1>
+<h1 align="center">Hi 👋, I'm Mustafa Galib Chowdhury</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=💻+Full+Stack+Developer;⚛️+MERN+Stack+Developer;🎓+Computer+Science+Student;🧠+Problem+Solver;🚀+Future+AI+Engineer;🌱+Always+Learning+New+Technologies" />
+  Computer Science & Engineering Student | Aspiring Full Stack Developer
 </h3>
 
 <p align="center">
+  Passionate about building modern web applications, solving problems,
+  and learning new technologies.
+</p>
+
+<p align="center">
   <a href="mailto:mustafagalibchowdhury@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
   <a href="https://www.linkedin.com/in/mustafa-galib-chowdhury-094802367">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="https://github.com/mustafagalibchowdhury">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
   <a href="https://www.facebook.com/mostofa.chy.1">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-
-  <a href="https://www.instagram.com/mustafa_galib_chy">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/mustafa_galib_chy/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```yaml
-Name: Mustafa Galib Chowdhury
+I'm a Computer Science and Engineering student at Metropolitan University, Sylhet, Bangladesh. I'm passionate about web development, programming, and building practical projects that solve real-world problems.
 
-Location: Sylhet, Bangladesh
+I'm continuously improving my programming skills, exploring modern technologies, and working toward becoming a professional Full Stack Developer.
 
-Education:
-  - B.Sc. in Computer Science & Engineering
-
-Current Focus:
-  - Full Stack Web Development
-  - MERN Stack
-  - Data Structures & Algorithms
-  - REST API Development
-
-Career Goal:
-  - Full Stack Developer
-  - AI Engineer
-
-Hobbies:
-  - Coding
-  - Football
-  - Problem Solving
-```
+- 🎓 Studying Computer Science & Engineering
+- 💻 Interested in Full Stack Web Development
+- 🌐 Learning modern frontend and backend technologies
+- 🧠 Practicing Data Structures & Algorithms
+- 🔌 Exploring REST APIs and database integration
+- 🤖 Interested in Artificial Intelligence
+- ⚽ Football enthusiast outside coding
 
 ---
 
 ## 🚀 Current Focus
 
-- 🌱 Learning **Next.js** & **TypeScript**
-- ⚛️ Building modern **MERN Stack Applications**
-- 🔥 Improving **Backend Development**
-- 📚 Practicing **Data Structures & Algorithms**
-- 🤝 Contributing to **Open Source Projects**
-- 🚀 Exploring **Artificial Intelligence**
+- 🌱 Learning **Next.js and TypeScript**
+- ⚛️ Exploring the **MERN Stack**
+- 🔥 Improving backend development skills
+- 📚 Practicing algorithms and problem-solving
+- 🛠️ Building practical web development projects
+- 🤝 Exploring open-source collaboration
+- 🤖 Learning about Artificial Intelligence
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Programming Languages"/>
 </p>
-
----
 
 ### 🎨 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" alt="Frontend Technologies"/>
 </p>
 
----
-
-### ⚙ Backend Development
+### ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
 </p>
 
----
-
-### 🗄 Database
+### 🗄️ Database & Services
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Database Technologies"/>
 </p>
 
----
-
-### 🛠 Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" alt="Development Tools"/>
 </p>
 
 ---
 
-# 💡 What I Love
+## 💡 What I Love
 
-✨ Building Beautiful Web Applications
+- ✨ Creating clean and user-friendly web interfaces
+- ⚡ Solving programming problems
+- 🚀 Exploring new technologies
+- 🧩 Turning ideas into practical projects
+- 📖 Learning consistently and improving my skills
 
-⚡ Solving Programming Problems
-
-🚀 Learning New Technologies
-
-🤝 Working on Real Projects
-
-📖 Continuous Self Improvement
+> "Code. Learn. Build. Repeat." 🚀
 
 ---
 
-> **"Code. Learn. Build. Repeat."** 🚀
-<!-- ========================================= -->
-<!--           Featured Projects               -->
-<!-- ========================================= -->
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
-Developing practical and user-friendly applications while continuously improving my skills.
+  A collection of projects through which I practice programming
+  and explore web development.
 </p>
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌐 **Portfolio Website** | My personal portfolio showcasing my projects, skills, and achievements. | Next.js, Tailwind CSS |
-| 📖 **Quran App** | Read Surahs, listen to audio, and explore the Holy Quran with a clean UI. | HTML, CSS, JavaScript, API |
-| 🌍 **Country Explorer** | Search and explore countries with detailed information using REST API. | React, REST API |
-| 😂 **Meme Generator** | Generate random memes instantly using a public API. | JavaScript, API |
-| 🐍 **Cyber Snake Game** | Classic Snake Game with modern UI and gameplay improvements. | HTML, CSS, JavaScript |
-
-> 🔥 **More awesome projects are coming soon...**
-
----
-
-
-
-# 🔥 GitHub Streak
+| Project | Description | Technologies |
+|---|---|---|
+| 🌐 **Portfolio Website** | A personal website to showcase my skills, projects, and achievements. | Next.js, Tailwind CSS |
+| 📖 **Quran App** | A Quran reading experience with Surah navigation and audio features. | HTML, CSS, JavaScript, API |
+| 🌍 **Country Explorer** | Explore countries and display information using a REST API. | React, REST API |
+| 😂 **Meme Generator** | Generate random memes using a public API. | JavaScript, API |
+| 🐍 **Cyber Snake Game** | A classic Snake game with a modern interface. | HTML, CSS, JavaScript |
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mustafagalibchowdhury&theme=tokyonight&hide_border=true"/>
-
+  More projects and improvements are on the way! 🚀
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafagalibchowdhury&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mustafagalibchowdhury&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+  />
 </p>
-
----
-
-# 🐍 Contribution Snake
 
 <p align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/mustafagalibchowdhury/mustafagalibchowdhury/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/mustafagalibchowdhury/mustafagalibchowdhury/output/github-contribution-grid-snake.svg">
-
-<img
-alt="Snake Animation"
-src="https://raw.githubusercontent.com/mustafagalibchowdhury/mustafagalibchowdhury/output/github-contribution-grid-snake.svg">
-
-</picture>
-
+  <img
+    src="https://streak-stats.demolab.com?user=mustafagalibchowdhury&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-
-
-# 📌 Coding Activity
+## 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafagalibchowdhury&theme=tokyonight"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mustafagalibchowdhury&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
 
 ---
 
-## 💻 Currently Learning
-
-```text
-✔ Next.js
-
-✔ TypeScript
-
-✔ Backend Development
-
-✔ MongoDB
-
-✔ Authentication (JWT)
-
-✔ Data Structures & Algorithms
-
-✔ Problem Solving
-```
-<!-- ========================================= -->
-<!--           Connect With Me                 -->
-<!-- ========================================= -->
-
-# 🌐 Connect With Me
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<a href="mailto:mustafagalibchowdhury@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mustafa-galib-chowdhury-094802367">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mustafagalibchowdhury">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/mostofa.chy.1">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/mustafa_galib_chy/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mustafagalibchowdhury/mustafagalibchowdhury/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mustafagalibchowdhury/mustafagalibchowdhury/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/mustafagalibchowdhury/mustafagalibchowdhury/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
 
-# 📬 Contact Information
+## 📌 Currently Learning
 
-- 👤 **Name:** Mustafa Galib Chowdhury
-- 📍 **Location:** Sylhet, Bangladesh
-- 🎓 **Department:** Computer Science & Engineering
-- 💼 **Role:** Full Stack Developer
-- 📧 **Email:** mustafagalibchowdhury@gmail.com
-
----
-
-# 🚀 Goals for 2026
-
-- ✅ Become a Professional Full Stack Developer
-- ✅ Master the MERN Stack
-- ✅ Learn TypeScript & Next.js
-- ✅ Build Scalable Web Applications
-- ✅ Solve 1000+ Programming Problems
-- ✅ Contribute to Open Source Projects
-- ✅ Explore Artificial Intelligence
+- Next.js
+- TypeScript
+- Backend Development
+- MongoDB
+- Authentication with JWT
+- Data Structures & Algorithms
+- Problem Solving
 
 ---
 
-# 💼 Open To
+## 🎯 Goals for 2026
+
+- Strengthen my Full Stack Development skills
+- Build complete and practical web applications
+- Improve my knowledge of the MERN Stack
+- Learn TypeScript and Next.js
+- Solve more programming problems
+- Contribute to open-source projects
+- Explore AI-related technologies
+
+---
+
+## 💼 Open To
 
 - 💻 Freelance Projects
-- 🤝 Open Source Collaboration
+- 🤝 Open-Source Collaboration
 - 🚀 Startup Projects
 - 🎯 Internship Opportunities
-- 🌍 Remote Work
+- 🌍 Remote Opportunities
 
 ---
 
-# ✨ Fun Facts
+## ✨ Fun Facts
 
-- 💙 I love building modern web applications.
+- 💙 I enjoy creating web applications.
 - ⚽ Football is my favorite sport.
-- ☕ Coffee + Coding = Productivity.
-- 📚 I enjoy learning new technologies every day.
-- 🌱 I believe consistency beats perfection.
+- 🧠 I enjoy solving challenging problems.
+- 📚 I believe consistent learning leads to growth.
+- 🌱 I'm always looking for opportunities to improve.
 
 ---
 
-# ✍️ Random Developer Quote
+## 🌐 Connect With Me
 
 <p align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <a href="mailto:mustafagalibchowdhury@gmail.com">
+    Email Me
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/mustafa-galib-chowdhury-094802367">
+    LinkedIn
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/mustafagalibchowdhury">
+    GitHub
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://www.facebook.com/mostofa.chy.1">
+    Facebook
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://www.instagram.com/mustafa_galib_chy/">
+    Instagram
+  </a>
 </p>
 
 ---
 
-# 💙 Thanks for Visiting
+<h3 align="center">💙 Thanks for Visiting My Profile!</h3>
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-Let's build something amazing together! 🚀
-
+  If you like my projects, feel free to explore my repositories
+  and leave a ⭐ on the ones you enjoy.
 </p>
 
----
+<p align="center">
+  <b>Let's keep learning, building, and growing together! 🚀</b>
+</p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"
+    alt="Footer"
+    width="100%"
+  />
 </p>
