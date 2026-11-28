@@ -90,7 +90,7 @@ I enjoy turning ideas into practical projects, exploring new technologies, and i
 ### 🗄️ Database & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode,postman,figma,vercel,netlify" alt="Databases and Tools"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mssql,firebase,git,github,vscode,postman,figma,vercel,netlify" alt="Databases and Tools"/>
 </p>
 
 ---
