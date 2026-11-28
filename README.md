@@ -84,7 +84,7 @@ I enjoy turning ideas into practical projects, exploring new technologies, and i
 ### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" alt="Backend Technologies"/>
 </p>
 
 ### 🗄️ Database & Tools
